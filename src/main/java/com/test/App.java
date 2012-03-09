@@ -21,6 +21,8 @@ public class App {
             BufferedImage originalImage =
                     ImageIO.read(new File("e:\\tmp\\2011 Gold Coast 156.jpg"));
 
+            //test comment 2
+
             File fbaos = new File("e:\\tmp\\myimage.jpg");
             ImageOutputStream baos = ImageIO.createImageOutputStream(fbaos);
             //FileOutputStream baos = new FileOutputStream(fbaos);
