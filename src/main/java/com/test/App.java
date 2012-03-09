@@ -16,6 +16,7 @@ import java.io.IOException;
  */
 public class App {
     public static void main(String[] args) {
+//This is a test
         try {
 
             BufferedImage originalImage =
