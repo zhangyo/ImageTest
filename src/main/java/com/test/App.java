@@ -23,6 +23,9 @@ public class App {
                     ImageIO.read(new File("e:\\tmp\\2011 Gold Coast 156.jpg"));
 
             //test comment 2
+            //test 3
+            
+            //test 5
 	//test 4
 
             File fbaos = new File("e:\\tmp\\myimage.jpg");
