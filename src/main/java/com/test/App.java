@@ -28,6 +28,8 @@ public class App {
             //test 5
 	//test 4
 
+            //branch 1 test 6
+
             File fbaos = new File("e:\\tmp\\myimage.jpg");
             ImageOutputStream baos = ImageIO.createImageOutputStream(fbaos);
             //FileOutputStream baos = new FileOutputStream(fbaos);
