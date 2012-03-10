@@ -23,6 +23,7 @@ public class App {
                     ImageIO.read(new File("e:\\tmp\\2011 Gold Coast 156.jpg"));
 
             //test comment 2
+            //test 3
 
             File fbaos = new File("e:\\tmp\\myimage.jpg");
             ImageOutputStream baos = ImageIO.createImageOutputStream(fbaos);
