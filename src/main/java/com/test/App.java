@@ -31,6 +31,8 @@ public class App {
             //branch 1 test 6
 
             File fbaos = new File("e:\\tmp\\myimage.jpg");
+
+            //test 7
             ImageOutputStream baos = ImageIO.createImageOutputStream(fbaos);
             //FileOutputStream baos = new FileOutputStream(fbaos);
             ImageWriter imageWriter = ImageIO.getImageWritersByFormatName("JPG").next();
